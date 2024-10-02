@@ -23,3 +23,6 @@ The project also utilizes advanced Excel functions to streamline data analysis.
 ## Conclusion
 This project demonstrates the use of Excel's advanced functions and data visualization tools to create a comprehensive sales analysis dashboard. It provides valuable insights into sales trends and customer
 preferences, making it a useful tool for business decision-making.
+
+
+![Screenshot (141)](https://github.com/user-attachments/assets/e16407ae-b825-4546-bc01-aa9910591d18)
